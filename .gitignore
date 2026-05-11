@@ -2,6 +2,7 @@
 cacheSim
 *.o
 *.out
+*.exe
 
 # IDE
 .vscode/

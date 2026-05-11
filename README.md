@@ -13,6 +13,10 @@ It simulates cache behavior for read and write operations using configurable cac
 ```bash
 make
 ```
+or directly:
+```bash
+g++ -Wall -Wextra -std=c++17 -O2 -o cacheSim cacheSim.cpp
+```
 
 ## Example
 
